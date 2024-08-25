@@ -1,0 +1,6 @@
+program: inputdouble.o getdouble.o
+	gcc inputdouble.o getdouble.o -o program -lm
+
+aloha.o: inputdouble.c getdouble.c
+	gcc -c inputdouble.c
+	gcc -c getdouble.c
