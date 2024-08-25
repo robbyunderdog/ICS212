@@ -1,0 +1,157 @@
+Robert Warner
+ICS 212 Assignment #2
+August 24, 2024
+    1  ls
+    2  ls /
+    3  pwd
+    4  make
+    5  sudo apt install make
+    6  cd /mnt/c/Users/rw513/
+    7  ls
+    8  cd Documents
+    9  ls
+   10  cd SchoolWork
+   11  ls
+   12  cd Fall2024
+   13  cd ICS212
+   14  ls
+   15  cd Assignment00
+   16  ls
+   17  vi aloha.c
+   18  clear
+   19  mount /c/Users/rw513/Documents/SchoolWork
+   20  git status
+   21  sudo apt install git-all
+   22  git --version
+   23  git status
+   24  git config
+   25  git config --global user.name "Robert Warner"
+   26  git config --global user.email rw51380@gmail.com
+   27  git config --global core.editor emacs
+   28  emacs aloha.c
+   29  sudo apt install emacs
+   30  sudo snap install emacs
+   31  sudo snap install emacs --classic
+   32  emacs aloha.c
+   33  ls
+   34  cs .
+   35  cd .
+   36  cd /
+   37  ls
+   38  cd /mnt/c/Users/rw513/Documents/SchoolWork/Fall2024/ICS212
+   39  ls
+   40  git init
+   41  ls
+   42  git add Assignment00
+   43  git commit -m 'Final'
+   44  ls
+   45  git status
+   46  git clear
+   47  git clean
+   48  git --help
+   49  clear
+   50  git
+   51  git status
+   52  clear
+   53  ls
+   54  cd /
+   55  cd /mnt/c//Users/rw513/Documents/SchoolWork/
+   56  ls
+   57  cd Fall2024
+   58  ls
+   59  git clone https://github.com/robbyunderdog/ICS212
+   60  ls
+   61  cd ICS212
+   62  ls
+   63  cd assignment00
+   64  ls
+   65  git status
+   66  cd ..
+   67  ls
+   68  git status
+   69  git add assignment00/
+   70  git status
+   71  git commit
+   72  git status
+   73  git branch --unset-upstream
+   74  git status
+   75  git remote add origin https://github.com/robbyunderdog/ICS212
+   76  git push -u origin main
+   77  git remote -v
+   78  git push origin main
+   79  git push -u origin main
+   80  git remote set-url origin https://@github.com/robbyunderdog/ICS212
+   81  clear
+   82  git status
+   83  git push -u origin main
+   84  git remote set-url origin https://git@github.com/robbyunderdog/ICS212.git
+   85  git status
+   86  git push origin main
+   87  git push -u origin main
+   88  ssh-keygen -t ed25519 -C "rw51380@gmail.com"
+   89  ssh-add /home/robbyunderdog/.ssh/id-ed25519
+   90  Get-Service -Name ssh-agent | Set-Service -StartupType Manual
+   91  ssh-add /home/robbyunderdog/.ssh/id-ed25519
+   92  clip < ~/.ssh/id_ed25519.pub
+   93  cat ~/.ssh/id_ed25519.pub
+   94  git push -u origin main
+   95  git status
+   96  ls
+   97  mkdir assignment01
+   98  cd assignment01
+   99  cd ..
+  100  git status
+  101  git add assignment01
+  102  git status
+  103  git commit
+  104  cd assignment 01
+  105  cd assignment01
+  106  emacs test.c
+  107  rm test.c
+  108  ls
+  109  env
+  110  unset DISPLAY
+  111  emacs test.c
+  112  ls
+  113  rm test.c
+  114  ls
+  115  vi test.c
+  116  ls
+  117  rm test.c
+  118  vi test.c
+  119  git status
+  120  git status
+  121  git add assignment01
+  122  git status
+  123  cd assignment01
+  124  ls
+  125  rm test.c
+  126  git status
+  127  git restore --staged test.c
+  128  git status
+  129  ls
+  130  cd ..
+  131  mkdir assignment02
+  132  git add assignment01
+  133  git add assignment02
+  134  cd assignment02
+  135  ls
+  136  history > WarnerRobert02.txt
+  137  vi WarnerRobert02.txt
+  138  cd /mnt
+  139  ls
+  140  cd /mnt/c/Users/rw513/Documents/SchoolWork/ICS212
+  141  cd /mnt/c/Users/rw513/Documents/SchoolWork/Fall2024/ICS212
+  142  ls
+  143  cd assignment02
+  144  ls
+  145  rm WarnerRobert02.txt
+  146  history > WarnerRobert02.txt
+  147  vi WarnerRobert02.txt
+  148  cd /mnt/c/Users/rw513/Documents/SchoolWork/Fall2024/ICS212
+  149  cd assignment02
+  150  ls
+  151  rm WarnerRobert02.txt
+  152  ls
+  153  history < WarnerRobert02.txt
+  154  history > WarnerRobert02.txt
